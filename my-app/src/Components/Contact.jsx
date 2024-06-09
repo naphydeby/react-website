@@ -3,7 +3,7 @@ import {FaYoutube, FaTwitter, FaFacebook, FaInstagram, FaEnvelope, FaPhone, FaAd
 function Contact(){
     return(
         <>
-        <div className={`pt-[80px]`}>
+        
        <div className={`w-full h-[200px] bg-gray-300 text-gray-600 `}>
         <p className={` ml-8 pt-8 `} >Holy Trinity School, Gbagada  Contact us </p>
         <p className={` ml-8 pt-8 font-bold text-4xl `} >Contact Us </p>
@@ -47,7 +47,7 @@ function Contact(){
             </p>
           </div>
         </div>
-        </div>
+        
         </>
     )
 }
